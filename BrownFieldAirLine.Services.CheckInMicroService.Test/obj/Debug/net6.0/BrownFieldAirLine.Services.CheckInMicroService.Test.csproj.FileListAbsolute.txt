@@ -1,0 +1,592 @@
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testhost.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testhost.exe
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.deps.json
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.runtimeconfig.json
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.pdb
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.AssemblyReference.cache
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.AssemblyInfoInputs.cache
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.AssemblyInfo.cs
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.CoreCompileInputs.cache
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.CopyComplete
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\refint\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.pdb
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.genruntimeconfig.cache
+C:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\ref\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.deps.json
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.runtimeconfig.json
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\appsettings.json
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.exe
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\AutoMapper.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Castle.Core.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\FluentAssertions.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Moq.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Npgsql.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.AspNetCore.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Filters.Expressions.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.File.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Superpower.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.dll
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.pdb
+c:\Users\kallured\Documents\LocalRepo\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\appsettings.json
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testhost.exe
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testhost.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.api.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.core.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testcentric.engine.metadata.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.deps.json
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.runtimeconfig.json
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.exe
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.deps.json
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.runtimeconfig.json
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.pdb
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\AutoMapper.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Castle.Core.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\FluentAssertions.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Moq.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Npgsql.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.framework.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.AspNetCore.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Filters.Expressions.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.File.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Superpower.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.pdb
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.AssemblyReference.cache
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.AssemblyInfoInputs.cache
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.AssemblyInfo.cs
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.CoreCompileInputs.cache
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.CopyComplete
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\refint\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.pdb
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.genruntimeconfig.cache
+c:\Users\kallured\Documents\SampleFinal\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\ref\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\appsettings.json
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testhost.exe
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testhost.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.api.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.core.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testcentric.engine.metadata.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.deps.json
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.runtimeconfig.json
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.exe
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.deps.json
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.runtimeconfig.json
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.pdb
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\AutoMapper.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Castle.Core.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\FluentAssertions.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Moq.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Npgsql.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.framework.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.AspNetCore.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Filters.Expressions.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.File.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Superpower.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.pdb
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.AssemblyReference.cache
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.AssemblyInfoInputs.cache
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.AssemblyInfo.cs
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.CoreCompileInputs.cache
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.CopyComplete
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\refint\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.pdb
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.genruntimeconfig.cache
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\ref\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+c:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.xml
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\appsettings.json
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testhost.exe
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testhost.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.deps.json
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.runtimeconfig.json
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.exe
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.deps.json
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.runtimeconfig.json
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.pdb
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Moq.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Npgsql.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Filters.Expressions.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Superpower.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.pdb
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\bin\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.xml
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.AssemblyReference.cache
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.AssemblyInfoInputs.cache
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.AssemblyInfo.cs
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.CoreCompileInputs.cache
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj.CopyComplete
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\refint\BrownFieldAirLine.Services.CheckInMicroService.Test.dll
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.pdb
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\BrownFieldAirLine.Services.CheckInMicroService.Test.genruntimeconfig.cache
+C:\Users\kallured\Documents\FinalSLN\BrownFieldAirLine\BrownFieldAirLine.Services.CheckInMicroService.Test\obj\Debug\net6.0\ref\BrownFieldAirLine.Services.CheckInMicroService.Test.dll

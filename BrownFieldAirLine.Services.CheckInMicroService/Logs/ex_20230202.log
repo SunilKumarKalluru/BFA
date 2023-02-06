@@ -1,0 +1,5 @@
+2023-02-02T10:38:23.5081281+05:30 [ERR] (BrownFieldAirLine.Services.CheckInMicroService.Controllers.BoardingController) Error occured while passenger tried to get Boarding Pass
+System.FormatException: String '1/28/2023 6:16:35 AM' was not recognized as a valid DateTime.
+   at System.DateTime.Parse(String s)
+   at BrownFieldAirLine.Services.CheckInMicroService.Repository.BoardingRepository.BoardingRepository.GetBoardingPass(Booking booking) in C:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService\Repository\BoardingRepository\BoardingRepository.cs:line 113
+   at BrownFieldAirLine.Services.CheckInMicroService.Controllers.BoardingController.GetBoardingPass(String PNR) in C:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService\Controllers\BoardingController.cs:line 50

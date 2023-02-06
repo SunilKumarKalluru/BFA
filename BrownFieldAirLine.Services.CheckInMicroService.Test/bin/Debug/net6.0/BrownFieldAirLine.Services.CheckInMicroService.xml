@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BrownFieldAirLine.Services.CheckInMicroService</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Context.BrownFieldAirLineContext" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Context.BrownFieldAirLineContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)" -->
+        <member name="T:BrownFieldAirLine.Services.CheckInMicroService.Controllers.BaggageController">
+            <summary>
+            Baggage service endpoints related to baggage
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.BaggageController.#ctor(BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository,BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.IBaggageRepository,Microsoft.Extensions.Logging.ILogger{BrownFieldAirLine.Services.CheckInMicroService.Controllers.BaggageController})">
+            <summary>
+            Constructor method that takes repositories and logger as Dependency Injection
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.BaggageController.GetNoOfPassengersForSeating(System.String,System.String)">
+            <summary>
+            Get passengers for the baggage
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.BaggageController.ValidateBaggage(System.String)">
+            <summary>
+            Get validation of baggage whether it is booked or not
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.BaggageController.GetReservedBaggageDetails(System.String,System.String)">
+            <summary>
+            Get reserved baggages for passenger
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.BaggageController.BaggageBooking(System.String,BrownFieldAirLine.Services.CheckInMicroService.Dtos.BaggageBookingDto)">
+            <summary>
+            Book baggage for passengers under same PNR
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.BaggageController.GetBaggageTags(System.String)">
+            <summary>
+            Get bagtags of baggage for passengers under same PNR
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.BaggageController.GetBaggageWeights">
+            <summary>
+            Get all baggage weight in system that are available
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Controllers.BoardingController" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.BoardingController.#ctor(Microsoft.Extensions.Logging.ILogger{BrownFieldAirLine.Services.CheckInMicroService.Controllers.BoardingController},BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository,BrownFieldAirLine.Services.CheckInMicroService.Repository.BoardingRepository.IBoardingRepository)" -->
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.BoardingController.GetBoardingPass(System.String)">
+            <summary>
+            Get boarding passes of passengers under same PNR
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Controllers.CheckInController" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.CheckInController.#ctor(Microsoft.Extensions.Logging.ILogger{BrownFieldAirLine.Services.CheckInMicroService.Controllers.CheckInController},BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository)" -->
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.CheckInController.CheckInPassenger(BrownFieldAirLine.Services.CheckInMicroService.Dtos.CheckInDto)">
+            <summary>
+            Post passenger web check-in status
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.CheckInController.ValidateCheckinStatus(System.String,System.String)">
+            <summary>
+            Get passenger web check-in status
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.CheckInController.ValidateCheckin(System.String,System.String)">
+            <summary>
+            Get validation on PNR and Email of passenger
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.CheckInController.GetCheckedInDetails(System.String,System.String)">
+            <summary>
+            Get booking details of passenger
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Controllers.LoyaltyController" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.LoyaltyController.#ctor(Microsoft.Extensions.Logging.ILogger{BrownFieldAirLine.Services.CheckInMicroService.Controllers.LoyaltyController},BrownFieldAirLine.Services.CheckInMicroService.Repository.LoyaltyRepository.ILoyaltyRepository,BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository)" -->
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.LoyaltyController.GetLoylaty(System.Guid,System.String)">
+            <summary>
+            Get and update loyalty points of passenger
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Controllers.SeatingController" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.SeatingController.#ctor(Microsoft.Extensions.Logging.ILogger{BrownFieldAirLine.Services.CheckInMicroService.Controllers.SeatingController},BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.ISeatingRepository,BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository)" -->
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.SeatingController.GetNoOfPassengersForSeating(System.String,System.String)">
+            <summary>
+            Get no of passengers under PNR 
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.SeatingController.GetBookedSeats(System.String,System.String)">
+            <summary>
+            Get seats booked under flight related to PNR
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.SeatingController.ValidateSeating(System.String)">
+            <summary>
+             Validate seating details for the PNR  
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.SeatingController.SeatsBookedByUser(System.String)">
+            <summary>
+             Get seat details of passengers under the PNR  
+            </summary>
+        </member>
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Controllers.SeatingController.SeatBooking(System.String,BrownFieldAirLine.Services.CheckInMicroService.Dtos.SeatBookingDto)">
+            <summary>
+             Book seats of passengers under the PNR  
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.BaggageValidateExport" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.BagTagExport" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.BoardingPassDto" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.CheckedInBookingsDto" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.CheckinExportDto" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.CheckInValidationDto" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.PassengerDetailsDto" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.ReservedBaggageDto" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.ReservedSeatsDto" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.SeatingExportDto" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.SeatingValidateExport" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.BaggageBookingDto" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.CheckInDto" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Dtos.SeatBookingDto" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Mapping.BaggageMapper" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Mapping.BoardingMapper" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Models.Baggage" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Models.BaggageWeightClass" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Models.Boarding" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Models.Booking" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Models.CheckIn" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Models.Loyalty" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Models.Passenger" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Models.Seating" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Models.User" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository.#ctor(BrownFieldAirLine.Services.CheckInMicroService.Context.BrownFieldAirLineContext,AutoMapper.IMapper)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository.BaggageIDGenerator" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository.PrintBagTag" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository.GetBaggageAsync(System.Int32,BrownFieldAirLine.Services.CheckInMicroService.Dtos.BaggageBookingDto)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository.GetPassengerDetails(System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository.GetPassengerById(System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository.GetReservedBaggageAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository.GetNoOfPassengersForBaggageAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository.BaggageBooking(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking,BrownFieldAirLine.Services.CheckInMicroService.Dtos.BaggageBookingDto)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository.GetBagTagAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.BaggageRepository.GetBaggageWeightClassAsync" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.IBaggageRepository" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.IBaggageRepository.BaggageBooking(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking,BrownFieldAirLine.Services.CheckInMicroService.Dtos.BaggageBookingDto)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.IBaggageRepository.GetNoOfPassengersForBaggageAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.IBaggageRepository.GetPassengerDetails(System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.IBaggageRepository.GetReservedBaggageAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.IBaggageRepository.GetBaggageAsync(System.Int32,BrownFieldAirLine.Services.CheckInMicroService.Dtos.BaggageBookingDto)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.IBaggageRepository.GetBagTagAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BaggageRepository.IBaggageRepository.GetBaggageWeightClassAsync" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Repository.BoardingRepository.BoardingRepository" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BoardingRepository.BoardingRepository.#ctor(BrownFieldAirLine.Services.CheckInMicroService.Context.BrownFieldAirLineContext,AutoMapper.IMapper)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BoardingRepository.BoardingRepository.GetSeatNo(System.Int32,System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BoardingRepository.BoardingRepository.GetPassengerById(System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BoardingRepository.BoardingRepository.GetBoardingPass(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Repository.BoardingRepository.IBoardingRepository" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.BoardingRepository.IBoardingRepository.GetBoardingPass(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.CheckInRepository" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.CheckInRepository.#ctor(BrownFieldAirLine.Services.CheckInMicroService.Context.BrownFieldAirLineContext,AutoMapper.IMapper)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.CheckInRepository.GetBookingByIdAsync(System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.CheckInRepository.GetBookingByIdAsync(System.String,System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.CheckInRepository.GetCheckIn(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.CheckInRepository.CheckIn(BrownFieldAirLine.Services.CheckInMicroService.Dtos.CheckInDto)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.CheckInRepository.ValidateCheckinStatusAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.CheckInRepository.ValidateCheckinAsync(System.String,System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.CheckInRepository.CheckedInBookingDetailsAsync(System.String,System.String)" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository.GetBookingByIdAsync(System.String,System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository.GetBookingByIdAsync(System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository.CheckIn(BrownFieldAirLine.Services.CheckInMicroService.Dtos.CheckInDto)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository.GetCheckIn(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository.ValidateCheckinAsync(System.String,System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository.CheckedInBookingDetailsAsync(System.String,System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.CheckInRepository.ICheckInRepository.ValidateCheckinStatusAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Repository.LoyaltyRepository.ILoyaltyRepository" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.LoyaltyRepository.ILoyaltyRepository.GetLoyalty(System.Guid,System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "F:BrownFieldAirLine.Services.CheckInMicroService.Repository.LoyaltyRepository.LoyaltyRepository._context" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.LoyaltyRepository.LoyaltyRepository.#ctor(BrownFieldAirLine.Services.CheckInMicroService.Context.BrownFieldAirLineContext,AutoMapper.IMapper)" -->
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Repository.LoyaltyRepository.LoyaltyRepository.GetLoyalty(System.Guid,System.Int32)">
+            This function is used to add or update loyalty for passengers 
+            <summary/>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.ISeatingRepository" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.ISeatingRepository.CheckSeatsRequested(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking,BrownFieldAirLine.Services.CheckInMicroService.Dtos.SeatBookingDto)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.ISeatingRepository.GetBookedSeatAsync(System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.ISeatingRepository.GetBookedSeatByUserAsync(System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.ISeatingRepository.SeatBooking(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking,BrownFieldAirLine.Services.CheckInMicroService.Dtos.SeatBookingDto)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.ISeatingRepository.GetNoOfPassengersForSeatingAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.ISeatingRepository.GetReservedSeatsAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "F:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.SeatingRepository._context" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.SeatingRepository.#ctor(BrownFieldAirLine.Services.CheckInMicroService.Context.BrownFieldAirLineContext,AutoMapper.IMapper)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.SeatingRepository.GetBookedSeatAsync(System.Int32)" -->
+        <member name="M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.SeatingRepository.GetBookedSeatByUserAsync(System.Int32)">
+            This function is used to fetch seats booked under PNR  
+            <summary/>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.SeatingRepository.GetNoOfPassengersForSeatingAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.SeatingRepository.CheckSeatsRequested(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking,BrownFieldAirLine.Services.CheckInMicroService.Dtos.SeatBookingDto)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.SeatingRepository.GetReservedSeatsAsync(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking)" -->
+        <!-- Badly formed XML comment ignored for member "M:BrownFieldAirLine.Services.CheckInMicroService.Repository.SeatingRepository.SeatingRepository.SeatBooking(BrownFieldAirLine.Services.CheckInMicroService.Models.Booking,BrownFieldAirLine.Services.CheckInMicroService.Dtos.SeatBookingDto)" -->
+    </members>
+</doc>

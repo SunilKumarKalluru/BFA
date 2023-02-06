@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrownFieldAirLine.Services.CheckInMicroService", "BrownFieldAirLine.Services.CheckInMicroService\BrownFieldAirLine.Services.CheckInMicroService.csproj", "{B7C71F05-6845-4B16-BBF1-608412A6FFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrownFieldAirLine.Services.CheckInMicroService.Test", "BrownFieldAirLine.Services.CheckInMicroService.Test\BrownFieldAirLine.Services.CheckInMicroService.Test.csproj", "{B8483AF2-26B1-48C3-9BCE-CBD3C54D1EE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C71F05-6845-4B16-BBF1-608412A6FFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C71F05-6845-4B16-BBF1-608412A6FFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C71F05-6845-4B16-BBF1-608412A6FFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C71F05-6845-4B16-BBF1-608412A6FFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8483AF2-26B1-48C3-9BCE-CBD3C54D1EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8483AF2-26B1-48C3-9BCE-CBD3C54D1EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8483AF2-26B1-48C3-9BCE-CBD3C54D1EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8483AF2-26B1-48C3-9BCE-CBD3C54D1EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

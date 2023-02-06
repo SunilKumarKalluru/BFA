@@ -1,0 +1,10 @@
+2023-01-31T00:10:46.9306985+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7059"
+2023-01-31T00:10:46.9722083+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5023"
+2023-01-31T00:10:46.9760504+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-01-31T00:10:46.9766614+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-01-31T00:10:46.9767318+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService\"
+2023-01-31T20:19:42.7665982+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7059"
+2023-01-31T20:19:42.8046374+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5023"
+2023-01-31T20:19:42.8085138+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-01-31T20:19:42.8091205+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-01-31T20:19:42.8091753+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Users\kallured\Documents\FinalBFA\Team 5\BrownFieldAirLine.Services.CheckInMicroService\"
